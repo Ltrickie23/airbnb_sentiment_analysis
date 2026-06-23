@@ -40,7 +40,7 @@ on a balanced dataset of 258,000+ English reviews.
 The interactive dashboard allows users to explore the dataset and 
 predict the sentiment of any review in real time.
 
-## Live Demostration
+## Live Demo
 
 https://ltrickie23-airbnb-sentiment-analysis-appstreamlit-app-jty6ma.streamlit.app/
 

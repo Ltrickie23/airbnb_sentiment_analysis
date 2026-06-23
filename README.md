@@ -46,4 +46,4 @@ predict the sentiment of any review in real time.
 
 ## Author
 Jorge Nava - Mechatronics Engineer | Data Science & Machine Learning.
-[![linkedin]([app-generated-url](https://linkedin-github-readme.onrender.com/api/render/Jorge%20Nava/Mechatronics%20Engineer%20|%20Data%20Science%20&%20Machine%20Learning/Maintenance%20Engineer/Bachelors%20Degree/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E03AQEdjk3fk_4nvw%2Fprofile-displayphoto-scale_400_400%2FB4EZ5mOvxeHcAg-%2F0%2F1779831604801%3Fe%3D1783555200%26v%3Dbeta%26t%3DM6L3ZNNc6SN0A_Qfw5mr5dMriXiY_5Pwr8ypGS3_0Pw))]((https://www.linkedin.com/in/jorgenavao))
+[linkedin](https://www.linkedin.com/in/jorgenavao)

@@ -46,4 +46,3 @@ predict the sentiment of any review in real time.
 
 ## Author
 [Jorge Nava](https://www.linkedin.com/in/jorgenavao) - Mechatronics Engineer | Data Science & Machine Learning.
-

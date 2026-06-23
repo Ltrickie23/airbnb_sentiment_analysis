@@ -41,4 +41,5 @@ The interactive dashboard allows users to explore the dataset and
 predict the sentiment of any review in real time.
 
 ## Author
-Jorge -
+Jorge Nava - Mechatronics Engineer | Data Science & Machine Learning.
+[LinkedIn](https://www.linkedin.com/in/jorgenavao)

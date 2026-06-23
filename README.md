@@ -45,5 +45,5 @@ predict the sentiment of any review in real time.
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ltrickie23-airbnb-sentiment-analysis-appstreamlit-app-jty6ma.streamlit.app/)
 
 ## Author
-Jorge Nava - Mechatronics Engineer | Data Science & Machine Learning.
-[linkedin](https://www.linkedin.com/in/jorgenavao)
+[Jorge Nava](https://www.linkedin.com/in/jorgenavao) - Mechatronics Engineer | Data Science & Machine Learning.
+

@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+nltk
+vaderSentiment
+langdetect
+imbalanced-learn
+xgboost
+tensorflow
+transformers
+torch
+streamlit
+matplotlib
+seaborn
+wordcloud
+joblib
+tqdm

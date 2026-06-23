@@ -11,7 +11,7 @@ import seaborn as sns
 from wordcloud import WordCloud
 
 nltk.download('wordnet',quiet=True)
-nltk.download('averaged_perceptron_tagger',quiet=True)
+nltk.download('averaged_perceptron_tagger_eng',quiet=True)
 nltk.download('punkt')
 nltk.download('stopwords')
 

@@ -182,11 +182,11 @@ with tab2:
     st.markdown("Performance comparison of all models tested in this project.")
 
     data = {
-        'Model':['Linear SVC','Logisitic Regression','Random Forest','XGBoost','LSTM','DistilBERT'],
-        'Accuracy':['91%','90%','89%','90%','87%','N/A'],
-        'Negative Precision':['90%', '89%', '93%', '92%', '65%', 'N/A'],
-        'Neutral Precision':['91%', '89%', '91%', '87%', '87%', 'N/A'],
-        'Positive Precision':['93%', '92%', '85%', '91%', '92%', 'N/A'],
+        'Model':['Linear SVC','Logisitic Regression','XGBoost','Random Forest','LSTM','DistilBERT'],
+        'Accuracy':['91%','90%','90%','89%','86%','N/A'],
+        'Negative F1':['94%', '91%', '92%', '94%', '85%', 'N/A'],
+        'Neutral F1':['87%', '86%', '86%', '85%', '83%', 'N/A'],
+        'Positive F1':['93%', '93%', '92%', '89%', '90%', 'N/A'],
         'Notes':[
             'Selected as final model',
             'Good baseline',
